@@ -22,4 +22,4 @@ Na aplicação web, as ONGs podem se cadastrar e cadastrar casos nos quais preci
 <h4>Cadastro de casos</h4>
 <img src='https://github.com/Gabriel-Vict0r/be-the-hero/assets/46754034/257c9d48-cd68-497c-b7ac-8e51e94e8f7b' alt='segunda tela' />
 <h3>Licença</h3>
-<p>Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes. </p>
+<p>Este projeto está sob a licença MIT. Veja o arquivo <a href='https://github.com/Gabriel-Vict0r/be-the-hero/blob/master/LICENSE'>LICENSE</a> para mais detalhes. </p>
